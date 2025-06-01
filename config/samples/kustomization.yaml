@@ -1,0 +1,5 @@
+## Append samples of your project ##
+resources:
+- cagip_v1_project.yaml
+- cagip_v2_project.yaml
+# +kubebuilder:scaffold:manifestskustomizesamples
